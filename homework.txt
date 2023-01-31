@@ -1,0 +1,91 @@
+   0 cd /home
+   1 cd
+   2 mkdir /home animals
+   3 mkdir /home /animals
+   4 cd /home 
+   5 mkdir /animals
+   6 mkdir animals
+   7 ls
+   8 mkdir /animals /dogs
+   9 mkdir animals /dogs
+  10 mkdir -p /animals /dogs
+  11 ls /animals
+  12 cd /animals
+  13 ls
+  14 /home
+  15 ls
+  16 cd /home
+  17 ls
+  18 cd /animals
+  19 mkdir /dogs
+  20 mkdir dogs
+  21 ls
+  22 mkdir cats
+  23 mkdir fishs
+  24 rm -rf fishes
+  25 ls
+  26 mkdir fishes
+  27 ls
+  28 cd /cats
+  29 cd ..
+  30 cd /cats
+  31 touch /animals/dogs pluto
+  32 ls /animals/dogs 
+  33 cd /dogs
+  34 ls
+  35 touch /pluto
+  36 ls
+  37 touch /pluto
+  38 touch pluto 
+  39 ls
+  40 cd
+  41 cd /cats
+  42 cd /fishes
+  43 cd /animal 
+  44 cd .. /animal 
+  45 cd animal
+  46 cd /animals
+  47 ls
+  48 cd /cats
+  49 cd cats
+  50 touch garfield
+  51 ls
+  52 cd /animals
+  53 cd dogs
+  54 ls
+  55 touch pluto
+  56 ls
+  57 cd
+  58 cd /animals
+  59 cd
+  60 cd /animals/fishes 
+  61 ls
+  62 touche nemo 
+  63 touch nemo 
+  64 ls
+  65 cd
+  66 cd /tmp 
+  67 touch adam
+  68 ls
+  69 cd
+  70 mkdir /home/humans
+  71 /home 
+  72 cd /home
+  73 ls
+  74 cd
+  75 cp /tmp/adam
+  76 cp
+  77 mv 
+  78 mv /tmp/adam /home/humans
+  79 ls /home/humans
+  80 touch /tmp/evA
+  81 ls /tmp
+  82 mv /tmp/evA /opt/eva
+  83 ls /opt
+  84 mv /opt/eva /home/humans/eva
+  85 ls /home/humans
+  86 history >> homework.txt 
+  87 history >> homework
+  88 history >> 
+  89 history 
+  90 history > homework.txt
